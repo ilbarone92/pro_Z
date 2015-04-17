@@ -5,9 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("hello world!");
 		System.out.println(" prova!");
-		System.out.println(" prova2222222222!");
-	
-			System.out.println(" funge");
+		System.out.println(" provadef");
 
 
 	}
